@@ -1,4 +1,6 @@
-### SA2005 Control Panel
+This material is based upon work supported by the National Science Foundation under grant number 1700649. Any opinions, findings and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect those of the National Science Foundation.
+
+# SA2005 Control Panel
 
 This is a Python-based GUI wrapper around the serial functionality of the BCBiomedical SA-2005. **NOTE:** Some functionality is not working as of this commit.
 
